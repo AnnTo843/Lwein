@@ -1,4 +1,5 @@
 import random
+from nose import nose
 
 def run():
     print("Bombardeen ubisoft")
@@ -15,3 +16,6 @@ def run():
         print("I believe in Rei chiquita Supremacy")
     elif Nro in Ep04:
         print("ASFSFSDfedsa")
+
+
+    nose(Nro)
