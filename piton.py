@@ -2,7 +2,7 @@ import random
 
 def run():
     print("Bombardeen ubisoft")
-    Nro = random,randit(1, 16)
+    Nro = random.randint(1, 16)
     Ep01 = [1,3,6,9]
     Ep02 = [2,5,8,10]
     Ep03 = [4,7,11,12]
@@ -15,4 +15,3 @@ def run():
         print("I believe in Rei chiquita Supremacy")
     elif Nro in Ep04:
         print("ASFSFSDfedsa")
-        
