@@ -15,3 +15,4 @@ def run():
         print("I believe in Rei chiquita Supremacy")
     elif Nro in Ep04:
         print("ASFSFSDfedsa")
+    print(Nro)
