@@ -17,5 +17,5 @@ def run():
     elif Nro in Ep04:
         print("ASFSFSDfedsa")
 
-
+    print(Nro)
     nose(Nro)
